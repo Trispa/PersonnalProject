@@ -1,4 +1,4 @@
-package com.MonCarnetUL.controller;
+package com.erco.me.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;

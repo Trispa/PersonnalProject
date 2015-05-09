@@ -7,6 +7,6 @@
         <title><spring:message code="titre.bonjour"/> : ${personne}</title>
     </head>
     <body>
-        <spring:message code="libelle.bonjour.lemonde" arguments="${personne}"/>
+        <spring:message code="libelle.bonjour.lemonde" arguments= "${personne}"/>
     </body>
 </html>
